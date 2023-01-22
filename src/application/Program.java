@@ -41,6 +41,7 @@ public class Program {
 		 System.out.println("Parcelas: ");
 		 for (Installment installment : obj.getInstallment()) {
 			 System.out.println(installment);
+			 
 		 }
 		
 		sc.close();
